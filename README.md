@@ -1,4 +1,5 @@
-﻿# Sundown-Studio-Clone
+# Sundown-Studio-Clone
+
 Leveraging Locomotive JS, The website boasts a seamless scrolling experience that enhances user engagement. Additionally, Swiper JS was integrated to further enhance usability, resulting in an enhanced and user-centric interface.
 
 # Website Link: 
